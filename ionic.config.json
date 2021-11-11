@@ -1,0 +1,8 @@
+{
+  "name": "shamklinik",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "85f8a812"
+}
